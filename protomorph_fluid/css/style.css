@@ -57,17 +57,23 @@ body {
 	min-height: 100%;
 	overflow-x: hidden;
 	overflow-y: scroll;
-	font-family: "Open Sans", Helvetica, Arial, sans-serif;
-	font-size: 14px;
-	line-height: 1.42857143;
-	color: #353535;
+	margin: 0;
+	padding: 0;
 	background-attachment: fixed;
 	background-color: #ffffff;
+	/* https://unsplash.com/ */
 	background-image: url("./img/bg.jpg");
 	background-position: 50% 50%;
 	background-repeat: no-repeat;
 	-webkit-background-size: cover;
 					background-size: cover;
+	line-height: 1.42857143;
+	font-family: "Open Sans", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	color: #353535;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
 }
 
 input,
