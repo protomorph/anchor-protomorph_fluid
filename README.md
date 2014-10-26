@@ -1,4 +1,4 @@
-ProtoMorph Fluid
+ProtoMorph Fluid v1.0.0-RC1
 ======================
 
 Theme for [AnchorCMS][2]
