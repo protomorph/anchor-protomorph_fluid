@@ -785,6 +785,8 @@ article.article > footer { font-size: 12px; }
 .input-group > input[type="text"]:focus,
 .input-group > textarea:focus { border-color: #12a3eb; }
 
+textarea { resize: vertical; }
+
 /* =======================================================================
  * Pages
  * ======================================================================= */
