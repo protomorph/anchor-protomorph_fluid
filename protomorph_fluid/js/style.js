@@ -9,6 +9,12 @@
 ;(function ($, window, document, undefined) {
 	"use strict";
 
+	// options
+	var options = {
+		animate: 600,	// Animate to top time.
+		ease: 'swing'	// Animate ease type.
+	};
+
 	// DROPDOWN MENU
 	// =============
 
@@ -54,8 +60,8 @@
 
 	$('.scroll-up').on('click touchstart', function() {
 		$('html, body').animate({scrollTop: 0},
-			600,
-			'swing'
+			options.animate,
+			options.ease
 		);
 	});
 
