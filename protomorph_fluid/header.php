@@ -83,6 +83,8 @@
 	<script>var base = '<?php echo theme_url(); ?>';</script>
 
 	<link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800,300italic,400italic,600italic,700italic,800italic|Inconsolata:400,700" rel="stylesheet">
+	<!-- A complete list of styles can be found at (https://highlightjs.org/static/test.html) -->
+	<link href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.3/styles/github.min.css" rel="stylesheet">
 	<link rel="stylesheet" href="<?php echo theme_url('/css/normalize.css'); ?>">
 	<link rel="stylesheet" href="<?php echo theme_url('/css/style.css'); ?>">
 
