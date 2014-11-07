@@ -277,7 +277,6 @@ pre code {
 	color: inherit;
 	white-space: pre-wrap;
 	background-color: transparent;
-	border-radius: 0;
 }
 
 input::-moz-placeholder,
