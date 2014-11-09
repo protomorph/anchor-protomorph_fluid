@@ -9,6 +9,13 @@ A full width flat theme for [AnchorCMS][2].
 
 - AnchorCMS 0.9.2
 
+#### Features
+
+- Scroll to top of page.
+- Syntax highlighting (highlight.js).
+- Gravatar for comments.
+- normalize.css v3.0.2.
+
 #### Installing
 
 1. Download [ProtoMorph Fluid][4]
