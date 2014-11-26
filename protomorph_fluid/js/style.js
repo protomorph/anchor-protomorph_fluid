@@ -64,6 +64,7 @@ if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
 
 	// HIGHLIGHT.JS
 	// ============
+
 	hljs.configure({
 		tabReplace: '	'
 	});
