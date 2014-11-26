@@ -1,4 +1,4 @@
-ProtoMorph Fluid v1.0.0-RC1
+ProtoMorph Fluid v1.0.0-RC2
 ======================
 
 #### Simple description
