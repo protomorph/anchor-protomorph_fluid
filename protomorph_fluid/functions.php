@@ -1,10 +1,10 @@
 <?php
 /* =======================================================================
  * Protomorph Fluid: Version 1.0.0
- * @ProtoMorph (http://protomorph.tk/)
+ * @ProtoMorph (http://protomorph.cf/)
  * =======================================================================
  * Copyright 2014
- * Licensed under the MIT license (http://protomorph.tk/)
+ * Licensed under the MIT license (http://protomorph.cf/)
  * ======================================================================= */
 $GLOBALS['fluid'] = [
 	'article_next'		=> 'Newer',
